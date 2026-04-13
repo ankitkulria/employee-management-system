@@ -19,7 +19,7 @@ A Java-based web application built using Servlets, JSP, and JDBC.
 - Java (Servlets, JSP)
 - JDBC
 - MySQL
-- HTML, CSS
+- HTML, CSS, BootStrap
 
 ## 🔹 Note
 
